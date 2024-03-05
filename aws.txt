@@ -1,0 +1,1 @@
+aws is on demand delivery of a fresorces like storage,compute, ect by using cloud services like aws services providers through the internet as pay as you use model.
